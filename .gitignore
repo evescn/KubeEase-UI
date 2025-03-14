@@ -14,6 +14,9 @@ dist-ssr
 coverage
 *.local
 .env.prod
+build.sh
+kube-ease-ui.conf
+
 
 /cypress/videos/
 /cypress/screenshots/
