@@ -4,7 +4,7 @@ KubeEase UI 界面
 
 ## 项目安装文档
 
-[安装文档](../../GitHub/KubeEase-UI/install.md)
+[安装文档](./install.md)
 
 ## 概述
 
