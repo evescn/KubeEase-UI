@@ -29,7 +29,7 @@ const login = async () => {
             <template #title>
                 <div class="login-card-header">
                     <img :src="kubeLogo" style="height: 25px; margin: 0 8px 5px 0" />
-                    <span>KubeA</span>
+                    <span>KubeEase</span>
                 </div>
             </template>
             <a-form ref="formRef" :label-col="{ span: 5 }" :model="loginData">
